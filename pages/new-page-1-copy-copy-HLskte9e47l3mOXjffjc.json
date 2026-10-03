@@ -1,0 +1,32 @@
+{
+  "frames": [
+    {
+      "component": {
+        "COMPONENT_NAME_PREFIX": "",
+        "attributes": {
+          "id": "i1g3vf"
+        },
+        "docEl": {
+          "tagName": "html"
+        },
+        "head": {
+          "type": "head"
+        },
+        "publicStates": [],
+        "stylable": [
+          "background",
+          "background-color",
+          "background-image",
+          "background-repeat",
+          "background-attachment",
+          "background-position",
+          "background-size"
+        ],
+        "type": "wrapper"
+      },
+      "id": "7T53wWZkPX7qQeJm"
+    }
+  ],
+  "id": "HLskte9e47l3mOXjffjc",
+  "name": "New page 1 copy copy"
+}

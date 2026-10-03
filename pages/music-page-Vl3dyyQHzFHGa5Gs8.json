@@ -1,0 +1,1670 @@
+{
+  "frames": [
+    {
+      "component": {
+        "COMPONENT_NAME_PREFIX": "",
+        "attributes": {
+          "id": "it70aa"
+        },
+        "components": [
+          {
+            "__symbol": "ihli-2",
+            "attributes": {
+              "id": "ihli-3"
+            },
+            "classes": [
+              "silex-default-container"
+            ],
+            "components": [
+              {
+                "__symbol": "i2nl-2",
+                "attributes": {
+                  "id": "i2nl-3"
+                },
+                "classes": [
+                  "silex-default-container"
+                ],
+                "components": [
+                  {
+                    "__symbol": "isw8j-2",
+                    "attributes": {
+                      "id": "isw8j-3"
+                    },
+                    "classes": [
+                      "silex-default-container"
+                    ],
+                    "components": [
+                      {
+                        "__symbol": "igltj-2",
+                        "attributes": {
+                          "id": "igltj-3"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "__symbol": "im2475",
+                            "attributes": {
+                              "id": "ieb8k-2"
+                            },
+                            "content": "Caleb Hartwell.",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "text"
+                      }
+                    ],
+                    "type": "container"
+                  },
+                  {
+                    "__symbol": "idnck-2",
+                    "attributes": {
+                      "id": "idnck-3"
+                    },
+                    "classes": [
+                      "silex-default-container"
+                    ],
+                    "components": [
+                      {
+                        "__symbol": "ii1yb-2",
+                        "attributes": {
+                          "id": "ii1yb-3"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "__symbol": "ibt707",
+                            "attributes": {
+                              "id": "iyow4-2"
+                            },
+                            "content": "Home",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "text"
+                      },
+                      {
+                        "__symbol": "iyy42-2",
+                        "attributes": {
+                          "href": "",
+                          "id": "iyy42-3"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "__symbol": "it7foj",
+                            "attributes": {
+                              "id": "i39fn-2"
+                            },
+                            "content": "Music",
+                            "type": "textnode"
+                          }
+                        ],
+                        "originalTagName": "div",
+                        "type": "text"
+                      },
+                      {
+                        "__symbol": "iwkxl-2",
+                        "attributes": {
+                          "id": "iwkxl-3"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "__symbol": "i1odzg",
+                            "attributes": {
+                              "id": "iv3aj-2"
+                            },
+                            "content": "Shows",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "text"
+                      },
+                      {
+                        "__symbol": "io0h6-2",
+                        "attributes": {
+                          "id": "io0h6-3"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "__symbol": "ituvkf",
+                            "attributes": {
+                              "id": "in3z9-2"
+                            },
+                            "content": "About",
+                            "type": "textnode"
+                          },
+                          {
+                            "__symbol": "ib84i7",
+                            "attributes": {
+                              "id": "igvtx-2"
+                            },
+                            "tagName": "br",
+                            "void": true
+                          }
+                        ],
+                        "type": "text"
+                      }
+                    ],
+                    "type": "container"
+                  }
+                ],
+                "type": "container"
+              }
+            ],
+            "custom-name": "Header",
+            "type": "container"
+          },
+          {
+            "attributes": {
+              "id": "ifqk4i"
+            },
+            "classes": [
+              "silex-default-container"
+            ],
+            "components": [
+              {
+                "attributes": {
+                  "id": "izr3t7"
+                },
+                "classes": [
+                  "silex-default-container"
+                ],
+                "components": [
+                  {
+                    "attributes": {
+                      "id": "iz3wi7"
+                    },
+                    "classes": [
+                      "silex-default-container"
+                    ],
+                    "components": [
+                      {
+                        "attributes": {
+                          "id": "i516h2"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "content": "DISCOGRAPHY",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "text"
+                      }
+                    ],
+                    "type": "container"
+                  },
+                  {
+                    "attributes": {
+                      "id": "ik4jym"
+                    },
+                    "classes": [
+                      "silex-default-container"
+                    ],
+                    "components": [
+                      {
+                        "attributes": {
+                          "id": "i2l4o9"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "content": "Four years, three record, a handful of B-sides. Tap any track to listen the player follows you around.",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "text"
+                      }
+                    ],
+                    "type": "container"
+                  },
+                  {
+                    "attributes": {
+                      "id": "iq3rl5"
+                    },
+                    "classes": [
+                      "silex-default-container"
+                    ],
+                    "components": [
+                      {
+                        "attributes": {
+                          "id": "ihhcw4"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "content": "The music.",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "text"
+                      }
+                    ],
+                    "type": "container"
+                  }
+                ],
+                "type": "container"
+              },
+              {
+                "attributes": {
+                  "id": "i63cnt"
+                },
+                "classes": [
+                  "silex-default-container"
+                ],
+                "components": [
+                  {
+                    "__symbol": "igzzv2-2",
+                    "attributes": {
+                      "id": "igzzv2"
+                    },
+                    "classes": [
+                      "silex-default-container"
+                    ],
+                    "components": [
+                      {
+                        "__symbol": "irs3rv-2",
+                        "attributes": {
+                          "id": "irs3rv"
+                        },
+                        "classes": [
+                          "silex-default-container"
+                        ],
+                        "components": [
+                          {
+                            "__symbol": "idt9w5-2",
+                            "attributes": {
+                              "id": "idt9w5"
+                            },
+                            "classes": [
+                              "silex-default-text",
+                              "bur_bar"
+                            ],
+                            "components": [
+                              {
+                                "__symbol": "i2245g-2",
+                                "attributes": {
+                                  "id": "i2245g"
+                                },
+                                "content": "▶",
+                                "type": "textnode"
+                              }
+                            ],
+                            "selector": {
+                              "mainSelector": {
+                                "pseudoClass": {
+                                  "hasParam": false,
+                                  "helpLink": "https://developer.mozilla.org/en-US/docs/Web/CSS/:hover",
+                                  "sentencePre": "On mouse",
+                                  "type": "hover"
+                                },
+                                "selectors": [
+                                  {
+                                    "active": false,
+                                    "type": "id",
+                                    "value": "idt9w5"
+                                  },
+                                  {
+                                    "active": false,
+                                    "type": "class",
+                                    "value": "silex-default-text"
+                                  },
+                                  {
+                                    "active": false,
+                                    "type": "class",
+                                    "value": "bur_bar"
+                                  },
+                                  {
+                                    "active": true,
+                                    "type": "id",
+                                    "value": "igzzv2-2-2"
+                                  }
+                                ]
+                              },
+                              "operator": {
+                                "displayName": "inside of",
+                                "hasParam": false,
+                                "helpLink": "https://developer.mozilla.org/en-US/docs/Web/CSS/Descendant_combinator",
+                                "isCombinator": true,
+                                "sentencePre": "When it is",
+                                "stringRepresentation": " ",
+                                "type": " "
+                              },
+                              "relatedSelector": {
+                                "selectors": [
+                                  {
+                                    "active": false,
+                                    "type": "id",
+                                    "value": "igzzv2"
+                                  }
+                                ]
+                              }
+                            },
+                            "type": "text"
+                          },
+                          {
+                            "__symbol": "im7a3g-2",
+                            "attributes": {
+                              "id": "im7a3g",
+                              "src": "/assets/5156fff97aec7dd28d6d1c61dfeb274e.jpg"
+                            },
+                            "classes": [
+                              "bur_bur"
+                            ],
+                            "selector": {
+                              "mainSelector": {
+                                "selectors": [
+                                  {
+                                    "active": false,
+                                    "type": "id",
+                                    "value": "im7a3g"
+                                  },
+                                  {
+                                    "active": true,
+                                    "type": "class",
+                                    "value": "bur_bur"
+                                  }
+                                ]
+                              },
+                              "operator": {
+                                "displayName": "inside of",
+                                "hasParam": false,
+                                "helpLink": "https://developer.mozilla.org/en-US/docs/Web/CSS/Descendant_combinator",
+                                "isCombinator": true,
+                                "sentencePre": "When it is",
+                                "stringRepresentation": " ",
+                                "type": " "
+                              },
+                              "relatedSelector": {
+                                "pseudoClass": {
+                                  "hasParam": false,
+                                  "helpLink": "https://developer.mozilla.org/en-US/docs/Web/CSS/:hover",
+                                  "sentencePre": "On mouse",
+                                  "type": "hover"
+                                },
+                                "selectors": [
+                                  {
+                                    "active": false,
+                                    "type": "id",
+                                    "value": "igzzv2"
+                                  },
+                                  {
+                                    "active": true,
+                                    "type": "id",
+                                    "value": "igzzv2-2-2"
+                                  }
+                                ]
+                              }
+                            },
+                            "type": "image"
+                          }
+                        ],
+                        "custom-name": "Container",
+                        "type": "container"
+                      },
+                      {
+                        "__symbol": "ilddj2-2",
+                        "attributes": {
+                          "id": "ilddj2"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "__symbol": "i0302c-2",
+                            "attributes": {
+                              "id": "i0302c"
+                            },
+                            "content": "01",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "text"
+                      },
+                      {
+                        "__symbol": "ixlr2c-2",
+                        "attributes": {
+                          "id": "ixlr2c"
+                        },
+                        "classes": [
+                          "silex-default-container"
+                        ],
+                        "components": [
+                          {
+                            "__symbol": "izxf2k-2",
+                            "attributes": {
+                              "id": "izxf2k"
+                            },
+                            "classes": [
+                              "silex-default-text"
+                            ],
+                            "components": [
+                              {
+                                "__symbol": "i48a1z-2",
+                                "attributes": {
+                                  "id": "i48a1z"
+                                },
+                                "content": "Golden Hour",
+                                "type": "textnode"
+                              }
+                            ],
+                            "type": "text"
+                          },
+                          {
+                            "__symbol": "ihcvxh-2",
+                            "attributes": {
+                              "id": "ihcvxh"
+                            },
+                            "classes": [
+                              "silex-default-text"
+                            ],
+                            "components": [
+                              {
+                                "__symbol": "ieg5io-2",
+                                "attributes": {
+                                  "id": "ieg5io"
+                                },
+                                "content": "Paper Sun 2024",
+                                "type": "textnode"
+                              }
+                            ],
+                            "type": "text"
+                          }
+                        ],
+                        "type": "container"
+                      }
+                    ],
+                    "custom-name": "hover",
+                    "selector": {
+                      "mainSelector": {
+                        "pseudoClass": null,
+                        "selectors": [
+                          {
+                            "active": false,
+                            "type": "id",
+                            "value": "igzzv2-2-2"
+                          },
+                          {
+                            "active": false,
+                            "type": "class",
+                            "value": "silex-default-container"
+                          }
+                        ]
+                      }
+                    },
+                    "type": "container"
+                  },
+                  {
+                    "__symbol": "ihli-2",
+                    "attributes": {
+                      "id": "ihli-2-2"
+                    },
+                    "classes": [
+                      "silex-default-container"
+                    ],
+                    "components": [
+                      {
+                        "__symbol": "i2nl-2",
+                        "attributes": {
+                          "id": "i2nl-2-2"
+                        },
+                        "classes": [
+                          "silex-default-container"
+                        ],
+                        "components": [
+                          {
+                            "__symbol": "isw8j-2",
+                            "attributes": {
+                              "id": "isw8j-2-2"
+                            },
+                            "classes": [
+                              "silex-default-container"
+                            ],
+                            "components": [
+                              {
+                                "__symbol": "igltj-2",
+                                "attributes": {
+                                  "id": "igltj-2-2"
+                                },
+                                "classes": [
+                                  "silex-default-text"
+                                ],
+                                "components": [
+                                  {
+                                    "__symbol": "im2475",
+                                    "attributes": {
+                                      "id": "im2475-2"
+                                    },
+                                    "content": "Caleb Hartwell.",
+                                    "type": "textnode"
+                                  }
+                                ],
+                                "type": "text"
+                              }
+                            ],
+                            "type": "container"
+                          },
+                          {
+                            "__symbol": "idnck-2",
+                            "attributes": {
+                              "id": "idnck-2-2"
+                            },
+                            "classes": [
+                              "silex-default-container"
+                            ],
+                            "components": [
+                              {
+                                "__symbol": "ii1yb-2",
+                                "attributes": {
+                                  "id": "ii1yb-2-2"
+                                },
+                                "classes": [
+                                  "silex-default-text"
+                                ],
+                                "components": [
+                                  {
+                                    "__symbol": "ibt707",
+                                    "attributes": {
+                                      "id": "ibt707-2"
+                                    },
+                                    "content": "Home",
+                                    "type": "textnode"
+                                  }
+                                ],
+                                "type": "text"
+                              },
+                              {
+                                "__symbol": "iyy42-2",
+                                "attributes": {
+                                  "href": "",
+                                  "id": "iyy42-2-2"
+                                },
+                                "classes": [
+                                  "silex-default-text"
+                                ],
+                                "components": [
+                                  {
+                                    "__symbol": "it7foj",
+                                    "attributes": {
+                                      "id": "it7foj-2"
+                                    },
+                                    "content": "Music",
+                                    "type": "textnode"
+                                  }
+                                ],
+                                "originalTagName": "div",
+                                "type": "text"
+                              },
+                              {
+                                "__symbol": "iwkxl-2",
+                                "attributes": {
+                                  "id": "iwkxl-2-2"
+                                },
+                                "classes": [
+                                  "silex-default-text"
+                                ],
+                                "components": [
+                                  {
+                                    "__symbol": "i1odzg",
+                                    "attributes": {
+                                      "id": "i1odzg-2"
+                                    },
+                                    "content": "Shows",
+                                    "type": "textnode"
+                                  }
+                                ],
+                                "type": "text"
+                              },
+                              {
+                                "__symbol": "io0h6-2",
+                                "attributes": {
+                                  "id": "io0h6-2-2"
+                                },
+                                "classes": [
+                                  "silex-default-text"
+                                ],
+                                "components": [
+                                  {
+                                    "__symbol": "ituvkf",
+                                    "attributes": {
+                                      "id": "ituvkf-2"
+                                    },
+                                    "content": "About",
+                                    "type": "textnode"
+                                  },
+                                  {
+                                    "__symbol": "ib84i7",
+                                    "attributes": {
+                                      "id": "ib84i7-2"
+                                    },
+                                    "tagName": "br",
+                                    "void": true
+                                  }
+                                ],
+                                "type": "text"
+                              }
+                            ],
+                            "type": "container"
+                          }
+                        ],
+                        "type": "container"
+                      }
+                    ],
+                    "custom-name": "Header",
+                    "type": "container"
+                  },
+                  {
+                    "attributes": {
+                      "id": "igzzv2-2-2"
+                    },
+                    "classes": [
+                      "silex-default-container"
+                    ],
+                    "components": [
+                      {
+                        "attributes": {
+                          "id": "irs3rv-2-2"
+                        },
+                        "classes": [
+                          "silex-default-container"
+                        ],
+                        "components": [
+                          {
+                            "attributes": {
+                              "id": "idt9w5-2-2"
+                            },
+                            "classes": [
+                              "silex-default-text",
+                              "bur_bar"
+                            ],
+                            "components": [
+                              {
+                                "attributes": {
+                                  "id": "i2245g-2-2"
+                                },
+                                "content": "▶",
+                                "type": "textnode"
+                              }
+                            ],
+                            "selector": {
+                              "mainSelector": {
+                                "pseudoClass": {
+                                  "hasParam": false,
+                                  "helpLink": "https://developer.mozilla.org/en-US/docs/Web/CSS/:hover",
+                                  "sentencePre": "On mouse",
+                                  "type": "hover"
+                                },
+                                "selectors": [
+                                  {
+                                    "active": false,
+                                    "type": "id",
+                                    "value": "idt9w5"
+                                  },
+                                  {
+                                    "active": false,
+                                    "type": "class",
+                                    "value": "silex-default-text"
+                                  },
+                                  {
+                                    "active": false,
+                                    "type": "class",
+                                    "value": "bur_bar"
+                                  },
+                                  {
+                                    "active": true,
+                                    "type": "id",
+                                    "value": "igzzv2-2-2"
+                                  }
+                                ]
+                              },
+                              "operator": {
+                                "displayName": "inside of",
+                                "hasParam": false,
+                                "helpLink": "https://developer.mozilla.org/en-US/docs/Web/CSS/Descendant_combinator",
+                                "isCombinator": true,
+                                "sentencePre": "When it is",
+                                "stringRepresentation": " ",
+                                "type": " "
+                              },
+                              "relatedSelector": {
+                                "selectors": [
+                                  {
+                                    "active": false,
+                                    "type": "id",
+                                    "value": "igzzv2"
+                                  }
+                                ]
+                              }
+                            },
+                            "type": "text"
+                          },
+                          {
+                            "attributes": {
+                              "id": "im7a3g-2-2",
+                              "src": "/assets/f9b04b2808fd43094faa31c03164fc58.jpg"
+                            },
+                            "classes": [
+                              "bur_bur"
+                            ],
+                            "selector": {
+                              "mainSelector": {
+                                "selectors": [
+                                  {
+                                    "active": false,
+                                    "type": "id",
+                                    "value": "im7a3g"
+                                  },
+                                  {
+                                    "active": true,
+                                    "type": "class",
+                                    "value": "bur_bur"
+                                  }
+                                ]
+                              },
+                              "operator": {
+                                "displayName": "inside of",
+                                "hasParam": false,
+                                "helpLink": "https://developer.mozilla.org/en-US/docs/Web/CSS/Descendant_combinator",
+                                "isCombinator": true,
+                                "sentencePre": "When it is",
+                                "stringRepresentation": " ",
+                                "type": " "
+                              },
+                              "relatedSelector": {
+                                "pseudoClass": {
+                                  "hasParam": false,
+                                  "helpLink": "https://developer.mozilla.org/en-US/docs/Web/CSS/:hover",
+                                  "sentencePre": "On mouse",
+                                  "type": "hover"
+                                },
+                                "selectors": [
+                                  {
+                                    "active": false,
+                                    "type": "id",
+                                    "value": "igzzv2"
+                                  },
+                                  {
+                                    "active": true,
+                                    "type": "id",
+                                    "value": "igzzv2-2-2"
+                                  }
+                                ]
+                              }
+                            },
+                            "type": "image"
+                          }
+                        ],
+                        "custom-name": "Container",
+                        "type": "container"
+                      },
+                      {
+                        "attributes": {
+                          "id": "ilddj2-2-2"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "content": "02",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "text"
+                      },
+                      {
+                        "attributes": {
+                          "id": "ixlr2c-2-2"
+                        },
+                        "classes": [
+                          "silex-default-container"
+                        ],
+                        "components": [
+                          {
+                            "attributes": {
+                              "id": "izxf2k-2-2"
+                            },
+                            "classes": [
+                              "silex-default-text"
+                            ],
+                            "components": [
+                              {
+                                "attributes": {
+                                  "id": "i48a1z-2-2"
+                                },
+                                "content": "Golden Hour",
+                                "type": "textnode"
+                              }
+                            ],
+                            "type": "text"
+                          },
+                          {
+                            "attributes": {
+                              "id": "ihcvxh-2-2"
+                            },
+                            "classes": [
+                              "silex-default-text"
+                            ],
+                            "components": [
+                              {
+                                "attributes": {
+                                  "id": "ieg5io-2-2"
+                                },
+                                "content": "Paper Sun 2024",
+                                "type": "textnode"
+                              }
+                            ],
+                            "type": "text"
+                          }
+                        ],
+                        "type": "container"
+                      }
+                    ],
+                    "custom-name": "hover",
+                    "selector": {
+                      "mainSelector": {
+                        "pseudoClass": null,
+                        "selectors": [
+                          {
+                            "active": false,
+                            "type": "id",
+                            "value": "igzzv2-2-2"
+                          },
+                          {
+                            "active": false,
+                            "type": "class",
+                            "value": "silex-default-container"
+                          }
+                        ]
+                      }
+                    },
+                    "type": "container"
+                  },
+                  {
+                    "attributes": {
+                      "id": "igzzv2-2-2-3"
+                    },
+                    "classes": [
+                      "silex-default-container"
+                    ],
+                    "components": [
+                      {
+                        "attributes": {
+                          "id": "irs3rv-2-2-3"
+                        },
+                        "classes": [
+                          "silex-default-container"
+                        ],
+                        "components": [
+                          {
+                            "attributes": {
+                              "id": "idt9w5-2-2-3"
+                            },
+                            "classes": [
+                              "silex-default-text",
+                              "bur_bar"
+                            ],
+                            "components": [
+                              {
+                                "attributes": {
+                                  "id": "i2245g-2-2-3"
+                                },
+                                "content": "▶",
+                                "type": "textnode"
+                              }
+                            ],
+                            "selector": {
+                              "mainSelector": {
+                                "pseudoClass": {
+                                  "hasParam": false,
+                                  "helpLink": "https://developer.mozilla.org/en-US/docs/Web/CSS/:hover",
+                                  "sentencePre": "On mouse",
+                                  "type": "hover"
+                                },
+                                "selectors": [
+                                  {
+                                    "active": false,
+                                    "type": "id",
+                                    "value": "idt9w5"
+                                  },
+                                  {
+                                    "active": false,
+                                    "type": "class",
+                                    "value": "silex-default-text"
+                                  },
+                                  {
+                                    "active": false,
+                                    "type": "class",
+                                    "value": "bur_bar"
+                                  },
+                                  {
+                                    "active": true,
+                                    "type": "id",
+                                    "value": "igzzv2-2-2"
+                                  }
+                                ]
+                              },
+                              "operator": {
+                                "displayName": "inside of",
+                                "hasParam": false,
+                                "helpLink": "https://developer.mozilla.org/en-US/docs/Web/CSS/Descendant_combinator",
+                                "isCombinator": true,
+                                "sentencePre": "When it is",
+                                "stringRepresentation": " ",
+                                "type": " "
+                              },
+                              "relatedSelector": {
+                                "selectors": [
+                                  {
+                                    "active": false,
+                                    "type": "id",
+                                    "value": "igzzv2"
+                                  }
+                                ]
+                              }
+                            },
+                            "type": "text"
+                          },
+                          {
+                            "attributes": {
+                              "id": "im7a3g-2-2-3",
+                              "src": "/assets/673ed006f130c0470b21841c062991e4.jpg"
+                            },
+                            "classes": [
+                              "bur_bur"
+                            ],
+                            "selector": {
+                              "mainSelector": {
+                                "selectors": [
+                                  {
+                                    "active": false,
+                                    "type": "id",
+                                    "value": "im7a3g"
+                                  },
+                                  {
+                                    "active": true,
+                                    "type": "class",
+                                    "value": "bur_bur"
+                                  }
+                                ]
+                              },
+                              "operator": {
+                                "displayName": "inside of",
+                                "hasParam": false,
+                                "helpLink": "https://developer.mozilla.org/en-US/docs/Web/CSS/Descendant_combinator",
+                                "isCombinator": true,
+                                "sentencePre": "When it is",
+                                "stringRepresentation": " ",
+                                "type": " "
+                              },
+                              "relatedSelector": {
+                                "pseudoClass": {
+                                  "hasParam": false,
+                                  "helpLink": "https://developer.mozilla.org/en-US/docs/Web/CSS/:hover",
+                                  "sentencePre": "On mouse",
+                                  "type": "hover"
+                                },
+                                "selectors": [
+                                  {
+                                    "active": false,
+                                    "type": "id",
+                                    "value": "igzzv2"
+                                  },
+                                  {
+                                    "active": true,
+                                    "type": "id",
+                                    "value": "igzzv2-2-2"
+                                  }
+                                ]
+                              }
+                            },
+                            "type": "image"
+                          }
+                        ],
+                        "custom-name": "Container",
+                        "type": "container"
+                      },
+                      {
+                        "attributes": {
+                          "id": "ilddj2-2-2-3"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "content": "03",
+                            "type": "textnode"
+                          },
+                          {
+                            "tagName": "br",
+                            "void": true
+                          }
+                        ],
+                        "type": "text"
+                      },
+                      {
+                        "attributes": {
+                          "id": "ixlr2c-2-2-3"
+                        },
+                        "classes": [
+                          "silex-default-container"
+                        ],
+                        "components": [
+                          {
+                            "attributes": {
+                              "id": "izxf2k-2-2-3"
+                            },
+                            "classes": [
+                              "silex-default-text"
+                            ],
+                            "components": [
+                              {
+                                "attributes": {
+                                  "id": "i48a1z-2-2-3"
+                                },
+                                "content": "Golden Hour",
+                                "type": "textnode"
+                              }
+                            ],
+                            "type": "text"
+                          },
+                          {
+                            "attributes": {
+                              "id": "ihcvxh-2-2-3"
+                            },
+                            "classes": [
+                              "silex-default-text"
+                            ],
+                            "components": [
+                              {
+                                "attributes": {
+                                  "id": "ieg5io-2-2-3"
+                                },
+                                "content": "Paper Sun 2024",
+                                "type": "textnode"
+                              }
+                            ],
+                            "type": "text"
+                          }
+                        ],
+                        "type": "container"
+                      }
+                    ],
+                    "custom-name": "hover",
+                    "selector": {
+                      "mainSelector": {
+                        "pseudoClass": null,
+                        "selectors": [
+                          {
+                            "active": false,
+                            "type": "id",
+                            "value": "igzzv2-2-2"
+                          },
+                          {
+                            "active": false,
+                            "type": "class",
+                            "value": "silex-default-container"
+                          }
+                        ]
+                      }
+                    },
+                    "type": "container"
+                  },
+                  {
+                    "attributes": {
+                      "id": "igzzv2-2-2-2"
+                    },
+                    "classes": [
+                      "silex-default-container"
+                    ],
+                    "components": [
+                      {
+                        "attributes": {
+                          "id": "irs3rv-2-2-2"
+                        },
+                        "classes": [
+                          "silex-default-container"
+                        ],
+                        "components": [
+                          {
+                            "attributes": {
+                              "id": "idt9w5-2-2-2"
+                            },
+                            "classes": [
+                              "silex-default-text",
+                              "bur_bar",
+                              "bur_bur"
+                            ],
+                            "components": [
+                              {
+                                "attributes": {
+                                  "id": "i2245g-2-2-2"
+                                },
+                                "content": "▶",
+                                "type": "textnode"
+                              }
+                            ],
+                            "selector": {
+                              "mainSelector": {
+                                "selectors": [
+                                  {
+                                    "active": false,
+                                    "type": "id",
+                                    "value": "idt9w5"
+                                  },
+                                  {
+                                    "active": false,
+                                    "type": "class",
+                                    "value": "silex-default-text"
+                                  },
+                                  {
+                                    "active": false,
+                                    "type": "class",
+                                    "value": "bur_bar"
+                                  },
+                                  {
+                                    "active": false,
+                                    "type": "id",
+                                    "value": "igzzv2-2-2"
+                                  },
+                                  {
+                                    "active": false,
+                                    "type": "id",
+                                    "value": "idt9w5-2-2-2"
+                                  },
+                                  {
+                                    "active": true,
+                                    "type": "class",
+                                    "value": "bur_bur"
+                                  }
+                                ]
+                              },
+                              "operator": {
+                                "displayName": "inside of",
+                                "hasParam": false,
+                                "helpLink": "https://developer.mozilla.org/en-US/docs/Web/CSS/Descendant_combinator",
+                                "isCombinator": true,
+                                "sentencePre": "When it is",
+                                "stringRepresentation": " ",
+                                "type": " "
+                              },
+                              "relatedSelector": {
+                                "pseudoClass": {
+                                  "hasParam": false,
+                                  "helpLink": "https://developer.mozilla.org/en-US/docs/Web/CSS/:hover",
+                                  "sentencePre": "On mouse",
+                                  "type": "hover"
+                                },
+                                "selectors": [
+                                  {
+                                    "active": false,
+                                    "type": "id",
+                                    "value": "igzzv2"
+                                  },
+                                  {
+                                    "active": true,
+                                    "type": "id",
+                                    "value": "igzzv2-2-2-2"
+                                  }
+                                ]
+                              }
+                            },
+                            "type": "text"
+                          },
+                          {
+                            "attributes": {
+                              "id": "im7a3g-2-2-2",
+                              "src": "/assets/7LWdA2ufpO62Fll4tZTVoTvHEWc.jpg"
+                            },
+                            "classes": [
+                              "bur_bur"
+                            ],
+                            "selector": {
+                              "mainSelector": {
+                                "selectors": [
+                                  {
+                                    "active": false,
+                                    "type": "id",
+                                    "value": "im7a3g"
+                                  },
+                                  {
+                                    "active": true,
+                                    "type": "class",
+                                    "value": "bur_bur"
+                                  },
+                                  {
+                                    "active": false,
+                                    "type": "id",
+                                    "value": "im7a3g-2-2-2"
+                                  }
+                                ]
+                              },
+                              "operator": {
+                                "displayName": "inside of",
+                                "hasParam": false,
+                                "helpLink": "https://developer.mozilla.org/en-US/docs/Web/CSS/Descendant_combinator",
+                                "isCombinator": true,
+                                "sentencePre": "When it is",
+                                "stringRepresentation": " ",
+                                "type": " "
+                              },
+                              "relatedSelector": {
+                                "pseudoClass": {
+                                  "hasParam": false,
+                                  "helpLink": "https://developer.mozilla.org/en-US/docs/Web/CSS/:hover",
+                                  "sentencePre": "On mouse",
+                                  "type": "hover"
+                                },
+                                "selectors": [
+                                  {
+                                    "active": false,
+                                    "type": "id",
+                                    "value": "igzzv2"
+                                  },
+                                  {
+                                    "active": false,
+                                    "type": "id",
+                                    "value": "igzzv2-2-2"
+                                  },
+                                  {
+                                    "active": true,
+                                    "type": "id",
+                                    "value": "igzzv2-2-2-2"
+                                  }
+                                ]
+                              }
+                            },
+                            "type": "image"
+                          }
+                        ],
+                        "custom-name": "Container",
+                        "type": "container"
+                      },
+                      {
+                        "attributes": {
+                          "id": "ilddj2-2-2-2"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "content": "04",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "text"
+                      },
+                      {
+                        "attributes": {
+                          "id": "ixlr2c-2-2-2"
+                        },
+                        "classes": [
+                          "silex-default-container"
+                        ],
+                        "components": [
+                          {
+                            "attributes": {
+                              "id": "izxf2k-2-2-2"
+                            },
+                            "classes": [
+                              "silex-default-text"
+                            ],
+                            "components": [
+                              {
+                                "attributes": {
+                                  "id": "i48a1z-2-2-2"
+                                },
+                                "content": "Golden Hour",
+                                "type": "textnode"
+                              }
+                            ],
+                            "type": "text"
+                          },
+                          {
+                            "attributes": {
+                              "id": "ihcvxh-2-2-2"
+                            },
+                            "classes": [
+                              "silex-default-text"
+                            ],
+                            "components": [
+                              {
+                                "attributes": {
+                                  "id": "ieg5io-2-2-2"
+                                },
+                                "content": "Paper Sun 2024",
+                                "type": "textnode"
+                              }
+                            ],
+                            "type": "text"
+                          }
+                        ],
+                        "type": "container"
+                      }
+                    ],
+                    "custom-name": "hover",
+                    "selector": {
+                      "mainSelector": {
+                        "pseudoClass": null,
+                        "selectors": [
+                          {
+                            "active": false,
+                            "type": "id",
+                            "value": "igzzv2-2-2"
+                          },
+                          {
+                            "active": false,
+                            "type": "class",
+                            "value": "silex-default-container"
+                          }
+                        ]
+                      }
+                    },
+                    "type": "container"
+                  }
+                ],
+                "type": "container"
+              }
+            ],
+            "type": "container"
+          },
+          {
+            "classes": [
+              "silex-default-container"
+            ],
+            "components": [
+              {
+                "attributes": {
+                  "id": "iz7zkd"
+                },
+                "classes": [
+                  "silex-default-container"
+                ],
+                "components": [
+                  {
+                    "attributes": {
+                      "id": "id3mbd"
+                    },
+                    "classes": [
+                      "silex-default-container"
+                    ],
+                    "components": [
+                      {
+                        "attributes": {
+                          "id": "ijajff"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "content": "Want a physical copy?",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "text"
+                      },
+                      {
+                        "attributes": {
+                          "id": "i1j46j"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "content": "Vinyi and cassette are available through the store. Each one signed and hand-number.",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "text"
+                      },
+                      {
+                        "attributes": {
+                          "id": "iiytph"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "content": "Visit the store",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "text"
+                      }
+                    ],
+                    "type": "container"
+                  }
+                ],
+                "type": "container"
+              }
+            ],
+            "type": "container"
+          },
+          {
+            "__symbol": "ino64s",
+            "attributes": {
+              "id": "ino64s-x1-2"
+            },
+            "classes": [
+              "silex-default-container"
+            ],
+            "components": [
+              {
+                "__symbol": "i05ulm",
+                "attributes": {
+                  "id": "i05ulm-x1-2"
+                },
+                "classes": [
+                  "silex-default-container"
+                ],
+                "components": [
+                  {
+                    "__symbol": "iog74h",
+                    "attributes": {
+                      "id": "iog74h-x1-2"
+                    },
+                    "classes": [
+                      "silex-default-text"
+                    ],
+                    "components": [
+                      {
+                        "__symbol": "i29h93",
+                        "attributes": {
+                          "id": "i29h93-x1-2"
+                        },
+                        "content": "@ 2026 Caleb Hartwell. All songd written with care.",
+                        "type": "textnode"
+                      }
+                    ],
+                    "type": "text"
+                  },
+                  {
+                    "__symbol": "iutqi6",
+                    "attributes": {
+                      "id": "iutqi6-x1-2"
+                    },
+                    "classes": [
+                      "silex-default-container"
+                    ],
+                    "components": [
+                      {
+                        "__symbol": "iftzfr-4",
+                        "attributes": {
+                          "id": "iftzfr-4-x1-2"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "__symbol": "i99ck2",
+                            "attributes": {
+                              "id": "i99ck2-x1-2"
+                            },
+                            "content": "Spotify",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "text"
+                      },
+                      {
+                        "__symbol": "iftzfr-3",
+                        "attributes": {
+                          "id": "iftzfr-3-x1-2"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "__symbol": "i19wsi",
+                            "attributes": {
+                              "id": "i19wsi-x1-2"
+                            },
+                            "content": "Apple Music",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "text"
+                      },
+                      {
+                        "__symbol": "iftzfr-2-2-2",
+                        "attributes": {
+                          "id": "iftzfr-2-2-2-x1-2"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "__symbol": "insppn",
+                            "attributes": {
+                              "id": "insppn-x1-2"
+                            },
+                            "content": "Instagram",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "text"
+                      }
+                    ],
+                    "type": "container"
+                  }
+                ],
+                "type": "container"
+              }
+            ],
+            "custom-name": "footer",
+            "type": "container"
+          }
+        ],
+        "docEl": {
+          "tagName": "html"
+        },
+        "head": {
+          "type": "head"
+        },
+        "id-plugin-data-source": "it70aa-5457",
+        "publicStates": [
+          {
+            "expression": [],
+            "hidden": true,
+            "id": "eleventySeoTitle",
+            "label": "eleventySeoTitle"
+          },
+          {
+            "expression": [],
+            "hidden": true,
+            "id": "eleventySeoDescription",
+            "label": "eleventySeoDescription"
+          },
+          {
+            "expression": [],
+            "hidden": true,
+            "id": "eleventyFavicon",
+            "label": "eleventyFavicon"
+          },
+          {
+            "expression": [],
+            "hidden": true,
+            "id": "eleventyOGImage",
+            "label": "eleventyOGImage"
+          },
+          {
+            "expression": [],
+            "hidden": true,
+            "id": "eleventyOGTitle",
+            "label": "eleventyOGTitle"
+          },
+          {
+            "expression": [],
+            "hidden": true,
+            "id": "eleventyOGDescription",
+            "label": "eleventyOGDescription"
+          },
+          {
+            "expression": [],
+            "hidden": true,
+            "id": "eleventyPageData",
+            "label": "eleventyPageData"
+          },
+          {
+            "expression": [],
+            "hidden": true,
+            "id": "eleventyPermalink",
+            "label": "eleventyPermalink"
+          }
+        ],
+        "stylable": [
+          "background",
+          "background-color",
+          "background-image",
+          "background-repeat",
+          "background-attachment",
+          "background-position",
+          "background-size"
+        ],
+        "type": "wrapper"
+      },
+      "id": "WZahlEFVamQj291l"
+    }
+  ],
+  "id": "Vl3dyyQHzFHGa5Gs8",
+  "name": "Music Page",
+  "settings": {
+    "eleventyFavicon": "[]",
+    "eleventyOGDescription": "[]",
+    "eleventyOGImage": "[]",
+    "eleventyOGTitle": "[]",
+    "eleventyPageData": "[]",
+    "eleventyPermalink": "[]",
+    "eleventySeoDescription": "[]",
+    "eleventySeoTitle": "[]",
+    "head": "",
+    "name": "Music Page"
+  }
+}

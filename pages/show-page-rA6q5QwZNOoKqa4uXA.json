@@ -1,0 +1,261 @@
+{
+  "frames": [
+    {
+      "component": {
+        "COMPONENT_NAME_PREFIX": "",
+        "attributes": {
+          "id": "icfgvf"
+        },
+        "components": [
+          {
+            "__symbol": "ihli-2",
+            "attributes": {
+              "id": "ihli-4"
+            },
+            "classes": [
+              "silex-default-container"
+            ],
+            "components": [
+              {
+                "__symbol": "i2nl-2",
+                "attributes": {
+                  "id": "i2nl-4"
+                },
+                "classes": [
+                  "silex-default-container"
+                ],
+                "components": [
+                  {
+                    "__symbol": "isw8j-2",
+                    "attributes": {
+                      "id": "isw8j-4"
+                    },
+                    "classes": [
+                      "silex-default-container"
+                    ],
+                    "components": [
+                      {
+                        "__symbol": "igltj-2",
+                        "attributes": {
+                          "id": "igltj-4"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "__symbol": "im2475",
+                            "attributes": {
+                              "id": "ieb8k-3"
+                            },
+                            "content": "Caleb Hartwell.",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "text"
+                      }
+                    ],
+                    "type": "container"
+                  },
+                  {
+                    "__symbol": "idnck-2",
+                    "attributes": {
+                      "id": "idnck-4"
+                    },
+                    "classes": [
+                      "silex-default-container"
+                    ],
+                    "components": [
+                      {
+                        "__symbol": "ii1yb-2",
+                        "attributes": {
+                          "id": "ii1yb-4"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "__symbol": "ibt707",
+                            "attributes": {
+                              "id": "iyow4-3"
+                            },
+                            "content": "Home",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "text"
+                      },
+                      {
+                        "__symbol": "iyy42-2",
+                        "attributes": {
+                          "href": "",
+                          "id": "iyy42-4"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "__symbol": "it7foj",
+                            "attributes": {
+                              "id": "i39fn-3"
+                            },
+                            "content": "Music",
+                            "type": "textnode"
+                          }
+                        ],
+                        "originalTagName": "div",
+                        "type": "text"
+                      },
+                      {
+                        "__symbol": "iwkxl-2",
+                        "attributes": {
+                          "id": "iwkxl-4"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "__symbol": "i1odzg",
+                            "attributes": {
+                              "id": "iv3aj-3"
+                            },
+                            "content": "Shows",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "text"
+                      },
+                      {
+                        "__symbol": "io0h6-2",
+                        "attributes": {
+                          "id": "io0h6-4"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "__symbol": "ituvkf",
+                            "attributes": {
+                              "id": "in3z9-3"
+                            },
+                            "content": "About",
+                            "type": "textnode"
+                          },
+                          {
+                            "__symbol": "ib84i7",
+                            "attributes": {
+                              "id": "igvtx-3"
+                            },
+                            "tagName": "br",
+                            "void": true
+                          }
+                        ],
+                        "type": "text"
+                      }
+                    ],
+                    "type": "container"
+                  }
+                ],
+                "type": "container"
+              }
+            ],
+            "custom-name": "Header",
+            "type": "container"
+          },
+          {
+            "classes": [
+              "silex-default-container"
+            ],
+            "type": "container"
+          }
+        ],
+        "docEl": {
+          "tagName": "html"
+        },
+        "head": {
+          "type": "head"
+        },
+        "id-plugin-data-source": "icfgvf-4656",
+        "publicStates": [
+          {
+            "expression": [],
+            "hidden": true,
+            "id": "eleventySeoTitle",
+            "label": "eleventySeoTitle"
+          },
+          {
+            "expression": [],
+            "hidden": true,
+            "id": "eleventySeoDescription",
+            "label": "eleventySeoDescription"
+          },
+          {
+            "expression": [],
+            "hidden": true,
+            "id": "eleventyFavicon",
+            "label": "eleventyFavicon"
+          },
+          {
+            "expression": [],
+            "hidden": true,
+            "id": "eleventyOGImage",
+            "label": "eleventyOGImage"
+          },
+          {
+            "expression": [],
+            "hidden": true,
+            "id": "eleventyOGTitle",
+            "label": "eleventyOGTitle"
+          },
+          {
+            "expression": [],
+            "hidden": true,
+            "id": "eleventyOGDescription",
+            "label": "eleventyOGDescription"
+          },
+          {
+            "expression": [],
+            "hidden": true,
+            "id": "eleventyPageData",
+            "label": "eleventyPageData"
+          },
+          {
+            "expression": [],
+            "hidden": true,
+            "id": "eleventyPermalink",
+            "label": "eleventyPermalink"
+          }
+        ],
+        "stylable": [
+          "background",
+          "background-color",
+          "background-image",
+          "background-repeat",
+          "background-attachment",
+          "background-position",
+          "background-size"
+        ],
+        "type": "wrapper"
+      },
+      "id": "Guxde2vYuwe9XCIp"
+    }
+  ],
+  "id": "rA6q5QwZNOoKqa4uXA",
+  "name": "Show page ",
+  "settings": {
+    "eleventyFavicon": "[]",
+    "eleventyOGDescription": "[]",
+    "eleventyOGImage": "[]",
+    "eleventyOGTitle": "[]",
+    "eleventyPageData": "[]",
+    "eleventyPermalink": "[]",
+    "eleventySeoDescription": "[]",
+    "eleventySeoTitle": "[]",
+    "head": "",
+    "name": "Show page "
+  }
+}

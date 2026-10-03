@@ -1,0 +1,839 @@
+{
+  "frames": [
+    {
+      "component": {
+        "COMPONENT_NAME_PREFIX": "",
+        "attributes": {
+          "id": "imti"
+        },
+        "components": [
+          {
+            "__symbol": "ihli-2",
+            "attributes": {
+              "id": "ihli"
+            },
+            "classes": [
+              "silex-default-container"
+            ],
+            "components": [
+              {
+                "__symbol": "i2nl-2",
+                "attributes": {
+                  "id": "i2nl"
+                },
+                "classes": [
+                  "silex-default-container"
+                ],
+                "components": [
+                  {
+                    "__symbol": "isw8j-2",
+                    "attributes": {
+                      "id": "isw8j"
+                    },
+                    "classes": [
+                      "silex-default-container"
+                    ],
+                    "components": [
+                      {
+                        "__symbol": "igltj-2",
+                        "attributes": {
+                          "id": "igltj"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "__symbol": "im2475",
+                            "attributes": {
+                              "id": "ieb8k"
+                            },
+                            "content": "Caleb Hartwell.",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "text"
+                      }
+                    ],
+                    "type": "container"
+                  },
+                  {
+                    "__symbol": "idnck-2",
+                    "attributes": {
+                      "id": "idnck"
+                    },
+                    "classes": [
+                      "silex-default-container"
+                    ],
+                    "components": [
+                      {
+                        "__symbol": "ii1yb-2",
+                        "attributes": {
+                          "id": "ii1yb"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "__symbol": "ibt707",
+                            "attributes": {
+                              "id": "iyow4"
+                            },
+                            "content": "Home",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "text"
+                      },
+                      {
+                        "__symbol": "iyy42-2",
+                        "attributes": {
+                          "href": "",
+                          "id": "iyy42"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "__symbol": "it7foj",
+                            "attributes": {
+                              "id": "i39fn"
+                            },
+                            "content": "Music",
+                            "type": "textnode"
+                          }
+                        ],
+                        "originalTagName": "div",
+                        "type": "text"
+                      },
+                      {
+                        "__symbol": "iwkxl-2",
+                        "attributes": {
+                          "id": "iwkxl"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "__symbol": "i1odzg",
+                            "attributes": {
+                              "id": "iv3aj"
+                            },
+                            "content": "Shows",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "text"
+                      },
+                      {
+                        "__symbol": "io0h6-2",
+                        "attributes": {
+                          "id": "io0h6"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "__symbol": "ituvkf",
+                            "attributes": {
+                              "id": "in3z9"
+                            },
+                            "content": "About",
+                            "type": "textnode"
+                          },
+                          {
+                            "__symbol": "ib84i7",
+                            "attributes": {
+                              "id": "igvtx"
+                            },
+                            "tagName": "br",
+                            "void": true
+                          }
+                        ],
+                        "type": "text"
+                      }
+                    ],
+                    "type": "container"
+                  }
+                ],
+                "type": "container"
+              }
+            ],
+            "custom-name": "Header",
+            "type": "container"
+          },
+          {
+            "attributes": {
+              "id": "ikulu"
+            },
+            "classes": [
+              "silex-default-container"
+            ],
+            "components": [
+              {
+                "attributes": {
+                  "id": "iwzqa"
+                },
+                "classes": [
+                  "silex-default-container"
+                ],
+                "components": [
+                  {
+                    "attributes": {
+                      "id": "iu9c5"
+                    },
+                    "classes": [
+                      "silex-default-container"
+                    ],
+                    "components": [
+                      {
+                        "attributes": {
+                          "id": "izzuq"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "content": "New record · Paper Sun · out now",
+                            "type": "textnode"
+                          }
+                        ],
+                        "custom-name": "Symbol 1",
+                        "type": "text"
+                      },
+                      {
+                        "attributes": {
+                          "id": "iea3x"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "content": "CalebHartwell.",
+                            "type": "textnode"
+                          },
+                          {
+                            "tagName": "br",
+                            "void": true
+                          },
+                          {
+                            "content": "Songs for the quiet hours.",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "text"
+                      },
+                      {
+                        "attributes": {
+                          "id": "izzuq-2"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "content": "An eight-track recode about home, distance, and the warmth between them. Recorded in a converted barn outside Asheville — mostly ar night, mostly alone.",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "text"
+                      },
+                      {
+                        "attributes": {
+                          "id": "if398"
+                        },
+                        "classes": [
+                          "silex-default-container"
+                        ],
+                        "components": [
+                          {
+                            "attributes": {
+                              "id": "isryf",
+                              "type": "button"
+                            },
+                            "components": [
+                              {
+                                "content": "▶   Play the record",
+                                "type": "textnode"
+                              }
+                            ],
+                            "text": "▶   Play the record",
+                            "type": "button"
+                          },
+                          {
+                            "attributes": {
+                              "id": "isryf-2",
+                              "type": "button"
+                            },
+                            "components": [
+                              {
+                                "content": "See all music",
+                                "type": "textnode"
+                              }
+                            ],
+                            "text": "See all music",
+                            "type": "button"
+                          }
+                        ],
+                        "type": "container"
+                      }
+                    ],
+                    "type": "container"
+                  },
+                  {
+                    "attributes": {
+                      "id": "izhsd"
+                    },
+                    "classes": [
+                      "silex-default-container"
+                    ],
+                    "components": [
+                      {
+                        "attributes": {
+                          "id": "i5ojv",
+                          "src": "/assets/artist-hero-BAV0iUQS.jpg"
+                        },
+                        "type": "image"
+                      }
+                    ],
+                    "type": "container"
+                  }
+                ],
+                "type": "container"
+              }
+            ],
+            "type": "container"
+          },
+          {
+            "attributes": {
+              "id": "i6kuk"
+            },
+            "classes": [
+              "silex-default-container"
+            ],
+            "components": [
+              {
+                "attributes": {
+                  "id": "i9cr6"
+                },
+                "classes": [
+                  "silex-default-container"
+                ],
+                "components": [
+                  {
+                    "attributes": {
+                      "id": "iu62c"
+                    },
+                    "classes": [
+                      "silex-default-text"
+                    ],
+                    "components": [
+                      {
+                        "content": "LISTEN",
+                        "type": "textnode"
+                      }
+                    ],
+                    "type": "text"
+                  }
+                ],
+                "type": "container"
+              },
+              {
+                "attributes": {
+                  "id": "i7p81"
+                },
+                "classes": [
+                  "silex-default-container"
+                ],
+                "components": [
+                  {
+                    "attributes": {
+                      "id": "idtfl"
+                    },
+                    "classes": [
+                      "silex-default-text"
+                    ],
+                    "components": [
+                      {
+                        "content": "Featured songs",
+                        "type": "textnode"
+                      }
+                    ],
+                    "type": "text"
+                  }
+                ],
+                "type": "container"
+              },
+              {
+                "attributes": {
+                  "id": "imyx2"
+                },
+                "classes": [
+                  "silex-default-container"
+                ],
+                "components": [
+                  {
+                    "attributes": {
+                      "id": "itqtg"
+                    },
+                    "classes": [
+                      "silex-default-container"
+                    ],
+                    "components": [
+                      {
+                        "attributes": {
+                          "id": "i79ehz"
+                        },
+                        "classes": [
+                          "silex-default-container"
+                        ],
+                        "components": [
+                          {
+                            "attributes": {
+                              "id": "iumtx1",
+                              "src": "/assets/5156fff97aec7dd28d6d1c61dfeb274e.jpg"
+                            },
+                            "type": "image"
+                          },
+                          {
+                            "attributes": {
+                              "id": "izei82"
+                            },
+                            "classes": [
+                              "silex-default-container"
+                            ],
+                            "components": [
+                              {
+                                "attributes": {
+                                  "id": "is7wq9",
+                                  "title": ""
+                                },
+                                "classes": [
+                                  "silex-default-text"
+                                ],
+                                "components": [
+                                  {
+                                    "content": "Golden Hour",
+                                    "type": "textnode"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "id": "iwyv3u"
+                                    },
+                                    "tagName": "br",
+                                    "void": true
+                                  }
+                                ],
+                                "type": "text"
+                              },
+                              {
+                                "attributes": {
+                                  "id": "i6vvf8-2-2"
+                                },
+                                "classes": [
+                                  "silex-default-text"
+                                ],
+                                "components": [
+                                  {
+                                    "content": "Paper Sun 2024",
+                                    "type": "textnode"
+                                  }
+                                ],
+                                "type": "text"
+                              }
+                            ],
+                            "type": "container"
+                          }
+                        ],
+                        "type": "container"
+                      },
+                      {
+                        "attributes": {
+                          "id": "iplp1j"
+                        },
+                        "classes": [
+                          "silex-default-container"
+                        ],
+                        "components": [
+                          {
+                            "attributes": {
+                              "id": "ixiofv",
+                              "src": "/assets/f9b04b2808fd43094faa31c03164fc58.jpg"
+                            },
+                            "type": "image"
+                          },
+                          {
+                            "attributes": {
+                              "id": "i31x6p"
+                            },
+                            "classes": [
+                              "silex-default-container"
+                            ],
+                            "components": [
+                              {
+                                "attributes": {
+                                  "id": "i8hozh",
+                                  "title": ""
+                                },
+                                "classes": [
+                                  "silex-default-text"
+                                ],
+                                "components": [
+                                  {
+                                    "content": "Crescent",
+                                    "type": "textnode"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "id": "i5b5ej"
+                                    },
+                                    "tagName": "br",
+                                    "void": true
+                                  }
+                                ],
+                                "type": "text"
+                              },
+                              {
+                                "attributes": {
+                                  "id": "i6vvf8-2"
+                                },
+                                "classes": [
+                                  "silex-default-text"
+                                ],
+                                "components": [
+                                  {
+                                    "content": "Nightroom 2025",
+                                    "type": "textnode"
+                                  }
+                                ],
+                                "type": "text"
+                              }
+                            ],
+                            "type": "container"
+                          }
+                        ],
+                        "type": "container"
+                      },
+                      {
+                        "attributes": {
+                          "id": "ij6w9"
+                        },
+                        "classes": [
+                          "silex-default-container"
+                        ],
+                        "components": [
+                          {
+                            "attributes": {
+                              "id": "i8noy",
+                              "src": "/assets/673ed006f130c0470b21841c062991e4.jpg"
+                            },
+                            "type": "image"
+                          },
+                          {
+                            "attributes": {
+                              "id": "i9u9k"
+                            },
+                            "classes": [
+                              "silex-default-container"
+                            ],
+                            "components": [
+                              {
+                                "attributes": {
+                                  "id": "ia7jh",
+                                  "title": ""
+                                },
+                                "classes": [
+                                  "silex-default-text"
+                                ],
+                                "components": [
+                                  {
+                                    "content": "Highway 7",
+                                    "type": "textnode"
+                                  },
+                                  {
+                                    "attributes": {
+                                      "id": "iuz5d8"
+                                    },
+                                    "tagName": "br",
+                                    "void": true
+                                  }
+                                ],
+                                "type": "text"
+                              },
+                              {
+                                "attributes": {
+                                  "id": "i6vvf8"
+                                },
+                                "classes": [
+                                  "silex-default-text"
+                                ],
+                                "components": [
+                                  {
+                                    "content": "Slow Country 2026",
+                                    "type": "textnode"
+                                  }
+                                ],
+                                "type": "text"
+                              }
+                            ],
+                            "type": "container"
+                          }
+                        ],
+                        "type": "container"
+                      }
+                    ],
+                    "type": "container"
+                  }
+                ],
+                "type": "container"
+              }
+            ],
+            "type": "container"
+          },
+          {
+            "attributes": {
+              "id": "is0uhu"
+            },
+            "classes": [
+              "silex-default-container"
+            ],
+            "components": [
+              {
+                "attributes": {
+                  "id": "i3avvm"
+                },
+                "classes": [
+                  "silex-default-container"
+                ],
+                "components": [
+                  {
+                    "attributes": {
+                      "id": "isc07f"
+                    },
+                    "classes": [
+                      "silex-default-text"
+                    ],
+                    "components": [
+                      {
+                        "content": "\"Hartwell's voice feels like a candle in a cold room - small.steady, and impossible to look away from.\"",
+                        "type": "textnode"
+                      }
+                    ],
+                    "type": "text"
+                  }
+                ],
+                "type": "container"
+              }
+            ],
+            "type": "container"
+          },
+          {
+            "__symbol": "ino64s",
+            "attributes": {
+              "id": "ino64s-x1"
+            },
+            "classes": [
+              "silex-default-container"
+            ],
+            "components": [
+              {
+                "__symbol": "i05ulm",
+                "attributes": {
+                  "id": "i05ulm-x1"
+                },
+                "classes": [
+                  "silex-default-container"
+                ],
+                "components": [
+                  {
+                    "__symbol": "iog74h",
+                    "attributes": {
+                      "id": "iog74h-x1"
+                    },
+                    "classes": [
+                      "silex-default-text"
+                    ],
+                    "components": [
+                      {
+                        "__symbol": "i29h93",
+                        "attributes": {
+                          "id": "i29h93-x1"
+                        },
+                        "content": "@ 2026 Caleb Hartwell. All songd written with care.",
+                        "type": "textnode"
+                      }
+                    ],
+                    "type": "text"
+                  },
+                  {
+                    "__symbol": "iutqi6",
+                    "attributes": {
+                      "id": "iutqi6-x1"
+                    },
+                    "classes": [
+                      "silex-default-container"
+                    ],
+                    "components": [
+                      {
+                        "__symbol": "iftzfr-4",
+                        "attributes": {
+                          "id": "iftzfr-4-x1"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "__symbol": "i99ck2",
+                            "attributes": {
+                              "id": "i99ck2-x1"
+                            },
+                            "content": "Spotify",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "text"
+                      },
+                      {
+                        "__symbol": "iftzfr-3",
+                        "attributes": {
+                          "id": "iftzfr-3-x1"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "__symbol": "i19wsi",
+                            "attributes": {
+                              "id": "i19wsi-x1"
+                            },
+                            "content": "Apple Music",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "text"
+                      },
+                      {
+                        "__symbol": "iftzfr-2-2-2",
+                        "attributes": {
+                          "id": "iftzfr-2-2-2-x1"
+                        },
+                        "classes": [
+                          "silex-default-text"
+                        ],
+                        "components": [
+                          {
+                            "__symbol": "insppn",
+                            "attributes": {
+                              "id": "insppn-x1"
+                            },
+                            "content": "Instagram",
+                            "type": "textnode"
+                          }
+                        ],
+                        "type": "text"
+                      }
+                    ],
+                    "type": "container"
+                  }
+                ],
+                "type": "container"
+              }
+            ],
+            "custom-name": "footer",
+            "type": "container"
+          }
+        ],
+        "docEl": {
+          "tagName": "html"
+        },
+        "head": {
+          "type": "head"
+        },
+        "id-plugin-data-source": "imti-1855",
+        "publicStates": [
+          {
+            "expression": [],
+            "hidden": true,
+            "id": "eleventySeoTitle",
+            "label": "eleventySeoTitle"
+          },
+          {
+            "expression": [],
+            "hidden": true,
+            "id": "eleventySeoDescription",
+            "label": "eleventySeoDescription"
+          },
+          {
+            "expression": [],
+            "hidden": true,
+            "id": "eleventyFavicon",
+            "label": "eleventyFavicon"
+          },
+          {
+            "expression": [],
+            "hidden": true,
+            "id": "eleventyOGImage",
+            "label": "eleventyOGImage"
+          },
+          {
+            "expression": [],
+            "hidden": true,
+            "id": "eleventyOGTitle",
+            "label": "eleventyOGTitle"
+          },
+          {
+            "expression": [],
+            "hidden": true,
+            "id": "eleventyOGDescription",
+            "label": "eleventyOGDescription"
+          },
+          {
+            "expression": [],
+            "hidden": true,
+            "id": "eleventyPageData",
+            "label": "eleventyPageData"
+          },
+          {
+            "expression": [],
+            "hidden": true,
+            "id": "eleventyPermalink",
+            "label": "eleventyPermalink"
+          }
+        ],
+        "stylable": [
+          "background",
+          "background-color",
+          "background-image",
+          "background-repeat",
+          "background-attachment",
+          "background-position",
+          "background-size"
+        ],
+        "type": "wrapper"
+      },
+      "id": "gN3yhH4J6L75bqWi"
+    }
+  ],
+  "id": "iXh0mEp4gE11Jxnm",
+  "name": "Home Page",
+  "settings": {
+    "eleventyFavicon": "[]",
+    "eleventyOGDescription": "[]",
+    "eleventyOGImage": "[]",
+    "eleventyOGTitle": "[]",
+    "eleventyPageData": "[]",
+    "eleventyPermalink": "[]",
+    "eleventySeoDescription": "[]",
+    "eleventySeoTitle": "[]",
+    "head": "",
+    "name": "Home Page"
+  }
+}
